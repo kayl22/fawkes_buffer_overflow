@@ -6,4 +6,4 @@ HOW TO USE:
 1. git clone this repo => https://github.com/kayl22/fawkes_buffer_overflow
 
 2. change the ip_addr and shellcode parameters and you are good to go
-(In the script I give some msfenom syntax to create a specific reverse shell shellcode for this binary)
+(In the script I give specific msfenom syntax to create a reverse shell shellcode payload)
